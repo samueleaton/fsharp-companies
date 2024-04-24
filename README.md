@@ -40,6 +40,7 @@ If your company loves and benefits from using F#, consider submitting a [testimo
 [C Tech Development Corp](https://www.ctech.com) | USA - Portland, ME / Sarasota, FL | Software | [Website](https://ctech.com) | Ok
 [Credit Suisse](https://www.credit-suisse.com) | PL - Wroclaw, Warsaw / Switzerland - Zürich / UK - London / USA - NY | Financial |  | Ok (part time)
 [Cubos Tecnologia](https://cubos.io/) | Brazil - Salvador, BA / São Paulo, SP | Software | [Linkedin](https://www.linkedin.com/company/cubostecnologia/), [Jobs](http://jobs.cubos.io/)| Ok
+[Curio](https://heycurio.com) | USA, CA, Redwood City | Software, Consumer Hardware | [Linkedin](https://www.linkedin.com/company/curio-hq), [Jobs](https://heycurio.com/our-story)| No
 [Cvent](https://www.cvent.com) | USA, VA, McLean | Software | [Github](https://github.com/cvent?utf8=✓&q=&type=&language=f%23)
 [D-EDGE](https://www.d-edge.com/) | Paris, France | Hospitality | [Github](https://github.com/d-edge?utf8=✓&q=&type=&language=f%23), [LinkedIn](https://www.linkedin.com/company/d-edge-hospitality-solutions), [Twitter](https://twitter.com/D_EDGE_Hosp) | Ok
 [Danpower](https://www.danpower.de/) | DE, Potsdam | EnergySupply | | Ok
